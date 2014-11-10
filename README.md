@@ -7,10 +7,10 @@ Tipster
 ##### Initial Setup
 1. Create a new File -> Project -> Single Page Application
 2. Set your simulator, deployment Target if needed etc., in General View
-**Image 1**
+![settings page xcode](https://cloud.githubusercontent.com/assets/1395635/4971207/65d6b704-6850-11e4-95d3-2875f020ffee.png)
 
 ##### Create your layouts
-**Image2**
+![storyboard options](https://cloud.githubusercontent.com/assets/1395635/4971205/647113be-6850-11e4-9a88-aaa357a6ea90.png)
 1. Open Main.storyboard
 2. Start dragging your labels and text boxes, and align them and give some placeholder values 
 3. UISegementControl used for tip percentage
@@ -23,7 +23,7 @@ Tipster
 2. In your view editor, click the element. Press ctrl and drag to your controller
 3. Add the name, format eg., tipLabel -> Add the type of element for easy identification
 4. After outlets, start creating your actions the same way ctrl + drag and change options accordingly
-**Image3**
+![the action model](https://cloud.githubusercontent.com/assets/1395635/4971209/6795bafe-6850-11e4-87a8-3118f0a53718.png)
 
 #### Resources used
 + http://vimeo.com/102084767
